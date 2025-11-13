@@ -75,4 +75,5 @@ Enable document summarization & insights extraction
 Fortune Stone — Full Stack Developer & AI Integration Specialist
 🔗 Portfolio Website
  | LinkedIn: https://www.linkedin.com/in/ozioma-isaiah-29a198174/
- | Upwork: 
+ | Upwork: https://www.upwork.com/freelancers/~01af91268146ace3fd?mp_source=share
+ | Fiverr: https://www.fiverr.com/s/YRZ2GRl
